@@ -3,15 +3,15 @@ O bot Droid é um bot de Administração|Diversão|Utilidades|Economia.
 
 👮 ADMINISTRAÇÃO
 
--> 'aviso 'ban 'kick 'mute 'clear 'trancar 'contador 'enquete
+-> 'aviso 'ban 'kick 'mute 'clear 'trancar 'contador 'enquete 'ticket 'unlock
 
 🌐 DIVERSÃO
 
--> 'ship 'beijar 'abraçar 'piada 'level
+-> 'ship 'beijar 'abraçar 'piada 'level 'roletarussa 'sougado
 
 ✨ UTILIDADES
 
--> 'userinfo 'serverinfo 'wiki 'ping 'ticket
+-> 'userinfo 'serverinfo 'wiki 'ping 'ticket 'horario 'traduzir 'sorteio
 
 💰 ECONOMIA
 
